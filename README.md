@@ -1,1 +1,1 @@
-# cpp-tutorial
+# README of my C++ tutorial related to the book "Grundkurs C++" by J&uuml;rgen Wolff
