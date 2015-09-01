@@ -1,5 +1,5 @@
 /*
- * main.cpp
+ * chapter002.cpp
  *
  *  Created on: 21.08.2015
  *      Author: Julian
@@ -27,10 +27,14 @@ void listing003() {
 		cerr << "Error while reading the input!\n";
 }
 
-int main () {
+void listing004() {
+
+}
+
+//int main () {
 	//listing001();
 	//listing002();
-	listing003();
+	//listing003();
 
-	return 0;
-}
+	//return 0;
+//}
